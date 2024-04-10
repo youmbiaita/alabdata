@@ -124,7 +124,7 @@ const dontDoThis = ((numb1 + numb2 + numb3 + numb4) == 50) &&
     console.log("The budget is not enough to cover the trip for all speeds");
    }
 
-   //
+   // The reasonable car is the one with 60 miles per hour.
   
 
 
